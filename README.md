@@ -1,2 +1,0 @@
-# Dorilas-AzureDevopsTuto
-CICD
